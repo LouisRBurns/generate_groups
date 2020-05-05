@@ -1,0 +1,9 @@
+week,Group 1,Group 2,Group 3,Group 4
+1,"('Brenda', 'Chuck', 'Nancy', 'Oliver')","('Fay', 'Igor', 'Lisa', 'Mike')","('Adam', 'Helen', 'Julie', 'Kelly')","('Dora', 'Ernest', 'Guy', 'Pat')"
+2,"('Chuck', 'Ernest', 'Fay', 'Lisa')","('Adam', 'Dora', 'Igor', 'Nancy')","('Brenda', 'Julie', 'Kelly', 'Pat')","('Guy', 'Helen', 'Mike', 'Oliver')"
+3,"('Brenda', 'Igor', 'Mike', 'Oliver')","('Adam', 'Chuck', 'Fay', 'Lisa')","('Dora', 'Guy', 'Nancy', 'Pat')","('Ernest', 'Helen', 'Julie', 'Kelly')"
+4,"('Dora', 'Kelly', 'Mike', 'Nancy')","('Fay', 'Guy', 'Oliver', 'Pat')","('Adam', 'Brenda', 'Helen', 'Igor')","('Chuck', 'Ernest', 'Julie', 'Lisa')"
+5,"('Fay', 'Helen', 'Nancy', 'Pat')","('Adam', 'Chuck', 'Guy', 'Mike')","('Brenda', 'Igor', 'Julie', 'Oliver')","('Dora', 'Ernest', 'Kelly', 'Lisa')"
+6,"('Dora', 'Guy', 'Mike', 'Nancy')","('Fay', 'Julie', 'Kelly', 'Oliver')","('Chuck', 'Helen', 'Lisa', 'Pat')","('Adam', 'Brenda', 'Ernest', 'Igor')"
+7,"('Brenda', 'Igor', 'Kelly', 'Oliver')","('Fay', 'Helen', 'Mike', 'Nancy')","('Adam', 'Guy', 'Lisa', 'Pat')","('Chuck', 'Dora', 'Ernest', 'Julie')"
+8,"('Dora', 'Lisa', 'Mike', 'Nancy')","('Adam', 'Brenda', 'Helen', 'Kelly')","('Ernest', 'Guy', 'Igor', 'Pat')","('Chuck', 'Fay', 'Julie', 'Oliver')"
